@@ -18,6 +18,7 @@ html, body {
 
 /* Cabeçalho */
 header {
+    background-image: url('/imagens/madeira.jpeg');
     position: fixed; /* Fixa o cabeçalho no topo */
     top: 0;
     left: 0;
